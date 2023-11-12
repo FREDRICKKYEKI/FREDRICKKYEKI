@@ -1,6 +1,6 @@
 
-<h1 align="center">Hi 👋, I'm FRED</h1>  
-### A passionate <span style="color:blue">Software Engineer</span> and *Data Scientist* 
+<h1 align="left">Hi 👋, I'm FRED</h1>  
+<h3> I'm a passionate <span style="color:blue">Software Engineer</span> and <b>Data Scientist</b> </h3>
   
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fredrickkyeki" alt="fredrickkyeki" /></a> </p>  
   
