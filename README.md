@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm FRED</h1>  
-<h3 align="center">A passionate Software Engineer and Data Scientist</h3>  
+### A passionate <span style="color:blue">Software Engineer</span> and *Data Scientist* 
   
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fredrickkyeki" alt="fredrickkyeki" /></a> </p>  
   
@@ -15,12 +15,17 @@
 - 📫 How to reach me **fredrickisaac14@yahoo.com**  
   
 <h3 align="left">Connect with me:</h3>  
-<p align="left">  
+<p style="display: flex; gap: 8px;" align="left">  
 <a href="https://twitter.com/@fredrick_isaac" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@fredrick_isaac" height="30" width="40" /></a>  
 <a href="https://linkedin.com/in/in/fredrick-kyeki-554177205" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/fredrick-kyeki-554177205" height="30" width="40" /></a>  
 <a href="https://medium.com/https://medium.com/@fredrickisaac142" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://medium.com/@fredrickisaac142" height="30" width="40" /></a>  
 </p>  
+    
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fredrickkyeki&show_icons=true&locale=en" alt="fredrickkyeki" />
   
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fredrickkyeki&" alt="fredrickkyeki" /></p>
+
 <h3 align="left">Languages and Tools:</h3>  
 <h4>1. Front End:</h4>
 <p align="left">
@@ -120,7 +125,6 @@
       height="40"
     />
   </a>
-
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
@@ -138,7 +142,7 @@
     />
   </a>
 
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
+  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer" title="Flask">
     <img
       src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg"
       alt="flask"
@@ -309,9 +313,5 @@
     />
   </a>
 </p>
-  
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?i&hide=jupyter%20notebook&username=fredrickkyeki&show_icons=true&locale=en&size_weight=0.5&count_weight=0.5" alt="fredrickkyeki" /></p>  
   
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fredrickkyeki&show_icons=true&locale=en" alt="fredrickkyeki" /></p>  
-  
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fredrickkyeki&" alt="fredrickkyeki" /></p>
