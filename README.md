@@ -1,6 +1,8 @@
 
 <h1 align="left">Hi 👋, I'm FRED</h1>  
-<h3> I'm a passionate <span style="color:blue">Software Engineer</span> and <b>Data Scientist</b> </h3>
+<p> I'm a passionate <span style="color:blue">Software Engineer</span> and <b>Data Scientist</b>. Despite my STEM background (Civil Engineer), I love working with computers and IT in general. My dream is to pioneer my continent to the next level in the area of technology and computing.
+  Below is forte...
+</p>
   
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fredrickkyeki" alt="fredrickkyeki" /></a> </p>  
   
