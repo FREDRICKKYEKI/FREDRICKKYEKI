@@ -1,6 +1,6 @@
 
 <h1 align="left">Hi 👋, I'm FRED</h1>  
-<p> I'm a passionate <b>Software Engineer</b> and <b>Data Scientist</b>. Despite my STEM background (Civil Engineer), I love working with computers and IT in general. My dream is to pioneer my continent to the next level in the area of technology and computing.
+<p> I'm a passionate <b>Software Engineer</b> and <b>Data Scientist</b>. I love working with computers and IT in general and my dream is to pioneer my continent to the next level in the area of technology and computing.
   Below is forte...
 </p>
   
