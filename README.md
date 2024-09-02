@@ -6,14 +6,7 @@
   
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fredrickkyeki" alt="fredrickkyeki" /></a> </p>  
   
-<p align="left"> <a href="https://twitter.com/@fredrick_isaac" target="blank"><img src="https://img.shields.io/twitter/follow/@fredrick_isaac?logo=twitter&style=for-the-badge" alt="fredrick_isaac" /></a> </p>  
-  
-- 🔭 I’m currently working on [Xpress-Truckers](https://github.com/FREDRICKKYEKI/Xpress-Truckers-Web-App)  
-  
-- 🌱 I’m currently learning **Next.js**  
-  
-- 💬 Ask me about **React**  
-  
+        
 - 📫 How to reach me **fredrickisaac14@yahoo.com**  
   
 <h3 align="left">Connect with me:</h3>  
