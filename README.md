@@ -1,4 +1,5 @@
 
+
 <h1 align="left">Hi 👋, I'm FRED</h1>  
 <p> I'm a passionate <b>Software Engineer</b> and <b>Data Scientist</b>. I love working with computers and IT in general and my dream is to pioneer my continent to the next level in the area of technology and computing.
   Below is forte...
@@ -17,9 +18,7 @@
 </p>  
     
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fredrickkyeki&show_icons=true&locale=en" alt="fredrickkyeki" />
-  
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fredrickkyeki&" alt="fredrickkyeki" /></p>
+
 
 <h3 align="left">Languages and Tools:</h3>  
 <h4>1. Front End:</h4>
@@ -139,7 +138,7 @@
 
   <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer" title="Flask">
     <img
-      src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg"
+      src="https://cdn.freebiesupply.com/logos/large/2x/flask-logo-png-transparent.png"
       alt="flask"
       width="40"
       height="40"
@@ -164,7 +163,9 @@
   </a>
   <a href="https://supabase.com/" target="_blank" rel="noreferrer">
     <img
-      src="https://supabase.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fsupabase-logo-wordmark--dark.b36ebb5f.png&w=128&q=75"
+          width="40"
+      height="40"
+      src="https://images.seeklogo.com/logo-png/43/1/supabase-logo-png_seeklogo-435677.png"
       alt="supabase"
     />
   </a>
