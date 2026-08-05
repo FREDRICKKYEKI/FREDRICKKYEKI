@@ -1,17 +1,37 @@
+# Hi 👋, I’m Fredrick
+
+I’m a Software Engineer and Data Scientist who enjoys building practical solutions with code, data, and automation. I like working across the full stack, from designing systems and APIs to building user-friendly interfaces and data-driven products.
+
+## About Me
+
+* 💻 I build web apps, dashboards, and data projects
+* 📊 I enjoy data science, machine learning, and analytics
+* ⚙️ I like solving real-world problems with clean, scalable software
+* 🚀 I’m always learning new tools, frameworks, and better ways to build
+
+## What I Work With
+
+**Languages:** JavaScript, TypeScript, Python, Java, C, C++
+**Frontend:** React, Next.js, Tailwind CSS, Material UI
+**Backend:** Node.js, Express, NestJS, Flask, Django
+**Data:** pandas, NumPy, scikit-learn, TensorFlow, Keras
+**Databases:** MySQL, PostgreSQL, SQLite
+**Tools:** Git, Docker, Bash, NGINX, PM2, Prisma, Sequelize
 
 
-<h1 align="left">Hi 👋, I'm FRED</h1>  
-<p> I'm a passionate <b>Software Engineer</b> and <b>Data Scientist</b>. I love working with computers and IT in general and my dream is to pioneer my continent to the next level in the area of technology and computing.
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=FREDRICKKYEKI&show_icons=true&theme=default" alt="GitHub Stats" />
 </p>
-  
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fredrickkyeki" alt="fredrickkyeki" /></a> </p>  
-  
-        
-- 📫 How to reach me **fredrickisaac14@yahoo.com**  
-  
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FREDRICKKYEKI&layout=compact&theme=default" alt="Top Languages" />
+</p>
 
+## Reach Me
 
+* Email: [fredrickisaac14@yahoo.com](mailto:fredrickisaac14@yahoo.com)
+* GitHub: [@FREDRICKKYEKI](https://github.com/FREDRICKKYEKI)
 
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?i&hide=jupyter%20notebook&username=fredrickkyeki&show_icons=true&locale=en&size_weight=0.5&count_weight=0.5" alt="fredrickkyeki" /></p>  
-   -->
+Thanks for stopping by 🙌
