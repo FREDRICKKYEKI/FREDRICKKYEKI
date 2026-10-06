@@ -1,37 +1,90 @@
-# Hi 👋, I’m Fredrick
+# Hey, I'm Fredrick 👋
 
-I’m a Software Engineer and Data Scientist who enjoys building practical solutions with code, data, and automation. I like working across the full stack, from designing systems and APIs to building user-friendly interfaces and data-driven products.
+**Software Engineer · Data Scientist**
 
-## About Me
+I build software that turns ideas and messy real-world problems into useful products.
 
-* 💻 I build web apps, dashboards, and data projects
-* 📊 I enjoy data science, machine learning, and analytics
-* ⚙️ I like solving real-world problems with clean, scalable software
-* 🚀 I’m always learning new tools, frameworks, and better ways to build
+My work sits at the intersection of **software engineering, data, automation, and product development** — from designing backend systems and APIs to building full-stack applications, data pipelines, dashboards, and AI-powered tools.
 
-## What I Work With
+I'm especially interested in building systems that are **practical, scalable, and easy to maintain**.
 
-**Languages:** JavaScript, TypeScript, Python, Java, C, C++
-**Frontend:** React, Next.js, Tailwind CSS, Material UI
-**Backend:** Node.js, Express, NestJS, Flask, Django
-**Data:** pandas, NumPy, scikit-learn, TensorFlow, Keras
-**Databases:** MySQL, PostgreSQL, SQLite
-**Tools:** Git, Docker, Bash, NGINX, PM2, Prisma, Sequelize
+---
+
+## 🚀 What I Do
+
+- 🧩 **Full-Stack Engineering** — building web applications from frontend to backend
+- ⚙️ **Backend & Systems** — APIs, services, integrations, databases, and distributed workflows
+- 📊 **Data & Analytics** — data pipelines, analysis, dashboards, and machine learning
+- 🤖 **Automation & AI** — using automation and intelligent systems to reduce repetitive work
+- 🏗️ **Architecture** — designing software that can grow without becoming difficult to change
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+
+```text
+JavaScript · TypeScript · Python · Java · C · C++
+```
+
+**Frontend**
+
+```text
+React · Next.js · Astro · Tailwind CSS · Material UI
+```
+
+**Backend**
+
+```text
+Node.js · Express · NestJS · Flask · Django
+```
+
+**Data & Machine Learning**
+
+```text
+Python · pandas · NumPy · scikit-learn · TensorFlow · Keras · XGBoost
+```
+
+**Databases & ORM**
+
+```text
+MySQL · PostgreSQL · SQLite · Prisma · Sequelize
+```
+
+**Infrastructure & Tools**
+
+```text
+Docker · Git · Bash · NGINX · PM2 · Linux
+```
 
 
-## GitHub Stats
+---
+
+## 🎯 Currently
+
+- Building production software and backend systems
+- Growing deeper into **system design, architecture, and distributed systems**
+- Exploring **AI/ML applications in real products**
+- Studying **Information Systems Technology**
+- Constantly experimenting with new ideas and tools
+
+---
+
+## 📈 GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FREDRICKKYEKI&show_icons=true&theme=default" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=FREDRICKKYEKI&show_icons=true&hide_border=true&rank_icon=github" alt="Fredrick's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FREDRICKKYEKI&layout=compact&hide_border=true" alt="Fredrick's top languages" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FREDRICKKYEKI&layout=compact&theme=default" alt="Top Languages" />
-</p>
+---
 
-## Reach Me
+## 🤝 Let's Connect
 
-* Email: [fredrickisaac14@yahoo.com](mailto:fredrickisaac14@yahoo.com)
-* GitHub: [@FREDRICKKYEKI](https://github.com/FREDRICKKYEKI)
+- 📧 **Email:** [fredrickisaac14@yahoo.com](mailto:fredrickisaac14@yahoo.com)
+- 💻 **GitHub:** [@FREDRICKKYEKI](https://github.com/FREDRICKKYEKI)
 
-Thanks for stopping by 🙌
+---
+
+> **Build useful things. Keep learning. Make the system better than you found it.**
